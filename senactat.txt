@@ -2,3 +2,6 @@ Criando arquivos no Gihub, utlizando a guia Add Files.
 Apagando conteúdo do Github
 
 Atualizando do Github para o repositório local
+
+Finalizando por que SEXTOU !!!! VisualStudio
+para Github
